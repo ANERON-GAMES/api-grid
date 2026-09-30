@@ -1,0 +1,12 @@
+{
+  "name": "@aneron/api-grid",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Color an API health grid from response time, and keep the last sweep when the probe dies.",
+  "license": "MIT",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
